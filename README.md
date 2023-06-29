@@ -19,7 +19,7 @@ The contact section is linked with form.io where submitted data can be stored...
 ![image](https://github.com/rajath008/portfolio-react/assets/106469287/b0484bec-dffc-4e3c-89a6-ad6d625d1a4a)
 
 
-![image](https://github.com/rajath008/portfolio-react/assets/106469287/42bc77f1-ba50-4902-9adb-422fc5a00e98)
+![image](https://github.com/rajath008/portfolio-react/assets/106469287/572d7e51-ad3e-4cf8-a07d-1c7f57d917ab)
 
 
 ![image](https://github.com/rajath008/portfolio-react/assets/106469287/d5a0c15b-79a6-4556-aa88-6f57801d72a4)
